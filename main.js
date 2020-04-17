@@ -29,7 +29,7 @@ var score = 0;
             // When the user clicks on <span> (x), close the modal
             span.onclick = function() {
               modal.style.display = "none";
-              location.replace("D:/Bubble Game/index.html");
+              location.replace("index.html");
             }
           }, (tim*1000));
     }
